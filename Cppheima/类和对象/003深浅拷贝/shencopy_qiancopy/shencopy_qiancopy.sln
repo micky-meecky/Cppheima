@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "shencopy_qiancopy", "shencopy_qiancopy.vcxproj", "{ACB9532A-28E5-4339-9030-5C6EF5227484}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACB9532A-28E5-4339-9030-5C6EF5227484}.Debug|x64.ActiveCfg = Debug|x64
+		{ACB9532A-28E5-4339-9030-5C6EF5227484}.Debug|x64.Build.0 = Debug|x64
+		{ACB9532A-28E5-4339-9030-5C6EF5227484}.Debug|x86.ActiveCfg = Debug|Win32
+		{ACB9532A-28E5-4339-9030-5C6EF5227484}.Debug|x86.Build.0 = Debug|Win32
+		{ACB9532A-28E5-4339-9030-5C6EF5227484}.Release|x64.ActiveCfg = Release|x64
+		{ACB9532A-28E5-4339-9030-5C6EF5227484}.Release|x64.Build.0 = Release|x64
+		{ACB9532A-28E5-4339-9030-5C6EF5227484}.Release|x86.ActiveCfg = Release|Win32
+		{ACB9532A-28E5-4339-9030-5C6EF5227484}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A20E57DC-76D6-4966-BB30-2778E02B82AC}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+Z:\projects\c++\类和对象\examples1_2\Debug\examples1_2.exe
+Z:\projects\c++\类和对象\examples1_2\Debug\examples1_2.pdb

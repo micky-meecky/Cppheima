@@ -1,0 +1,2 @@
+Z:\projects\c++\类和对象\012多态\duotai2\x64\Debug\duotai2.exe
+Z:\projects\c++\类和对象\012多态\duotai2\x64\Debug\duotai2.pdb

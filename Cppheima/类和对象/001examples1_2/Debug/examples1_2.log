@@ -1,0 +1,8 @@
+﻿  class_Circle.cpp
+  class_Cube.cpp
+  class_Point.cpp
+  examples1_2.cpp
+  正在生成代码...
+Z:\projects\c++\类和对象\examples1_2\examples1_2.cpp(369): warning C4715: “Compare”: 不是所有的控件路径都返回值
+Z:\projects\c++\类和对象\examples1_2\class_Cube.cpp(98): warning C4715: “Cube::Compare_cy”: 不是所有的控件路径都返回值
+  examples1_2.vcxproj -> Z:\projects\c++\类和对象\examples1_2\Debug\examples1_2.exe

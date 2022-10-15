@@ -1,0 +1,46 @@
+There are three different elements which is produced by different company respectively! 
+---------------------------------------------------------------------------------------
+Companies:    Intel     Sumsung   NVIDIA    
+Elements:     CPU       GPU       Memory    
+---------------------------------------------------------------------------------------
+You can enter any brand whatever brand you want: (y to go on / n to quit)PU brand: 
+MEM brand: 
+test begin: The 1st computers are generating ......
+
+please enter the brand you want: (ctn to just go on)
+CPU brand: 
+GPU brand: 
+MEM brand: 
+test begin: The 2nd computers are generating ......
+
+please enter the brand you want: (ctn to just go on)
+CPU brand: 
+GPU brand: 
+MEM brand: please enter the brand you want: 
+
+test begin: The 3rd computers are generating ......
+There are three different elements which is produced by different company respectively! 
+---------------------------------------------------------------------------------------
+Companies:    Intel     Sumsung   NVIDIA    
+Elements:     CPU       GPU       Memory    
+---------------------------------------------------------------------------------------
+
+please enter the brand you want: (" q! " to just go on)
+CPU brand: 
+GPU brand: 
+MEM brand: 
+test begin: The 1st computers are generating ......
+
+please enter the brand you want: (ctn to just go on)
+CPU brand: 
+GPU brand: 
+MEM brand: 
+test begin: The 2nd computers are generating ......
+
+please enter the brand you want: (ctn to just go on)
+CPU brand: 
+GPU brand: 
+MEM brand: please enter the brand you want: 
+
+test begin: The 3rd computers are generating ......
+You can enter any brand whatever brand you want: (y to go on / n to quit)

@@ -1,0 +1,2 @@
+Z:\projects\c++\类和对象\lei_he_duixiang\Debug\lei_he_duixiang.exe
+Z:\projects\c++\类和对象\lei_he_duixiang\Debug\lei_he_duixiang.pdb

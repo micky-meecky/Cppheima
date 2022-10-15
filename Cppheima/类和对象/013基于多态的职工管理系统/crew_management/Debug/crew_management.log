@@ -1,0 +1,14 @@
+﻿  Boss.cpp
+  Manager.cpp
+  WorkManager.cpp
+Z:\projects\c++\类和对象\013基于多态的职工管理系统\crew_management\WorkManager.cpp(158,8): warning C4101: “seq_x”: 未引用的局部变量
+Z:\projects\c++\类和对象\013基于多态的职工管理系统\crew_management\WorkManager.cpp(158,15): warning C4101: “seq_y”: 未引用的局部变量
+Z:\projects\c++\类和对象\013基于多态的职工管理系统\crew_management\WorkManager.cpp(413,6): warning C4101: “ID_a”: 未引用的局部变量
+Z:\projects\c++\类和对象\013基于多态的职工管理系统\crew_management\WorkManager.cpp(413,12): warning C4101: “ID_b”: 未引用的局部变量
+Z:\projects\c++\类和对象\013基于多态的职工管理系统\crew_management\WorkManager.cpp(411,6): warning C4101: “seq_x”: 未引用的局部变量
+Z:\projects\c++\类和对象\013基于多态的职工管理系统\crew_management\WorkManager.cpp(411,20): warning C4101: “ab_a”: 未引用的局部变量
+Z:\projects\c++\类和对象\013基于多态的职工管理系统\crew_management\WorkManager.cpp(411,13): warning C4101: “seq_y”: 未引用的局部变量
+  crew_management.cpp
+  employee.cpp
+  正在生成代码...
+  crew_management.vcxproj -> Z:\projects\c++\类和对象\013基于多态的职工管理系统\crew_management\Debug\crew_management.exe

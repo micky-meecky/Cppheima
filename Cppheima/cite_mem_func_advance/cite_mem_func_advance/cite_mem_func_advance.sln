@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cite_mem_func_advance", "cite_mem_func_advance.vcxproj", "{05789481-0758-4E04-A38F-BEEAA0A172EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05789481-0758-4E04-A38F-BEEAA0A172EE}.Debug|x64.ActiveCfg = Debug|x64
+		{05789481-0758-4E04-A38F-BEEAA0A172EE}.Debug|x64.Build.0 = Debug|x64
+		{05789481-0758-4E04-A38F-BEEAA0A172EE}.Debug|x86.ActiveCfg = Debug|Win32
+		{05789481-0758-4E04-A38F-BEEAA0A172EE}.Debug|x86.Build.0 = Debug|Win32
+		{05789481-0758-4E04-A38F-BEEAA0A172EE}.Release|x64.ActiveCfg = Release|x64
+		{05789481-0758-4E04-A38F-BEEAA0A172EE}.Release|x64.Build.0 = Release|x64
+		{05789481-0758-4E04-A38F-BEEAA0A172EE}.Release|x86.ActiveCfg = Release|Win32
+		{05789481-0758-4E04-A38F-BEEAA0A172EE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70807DE4-071F-4238-A5B3-6EA428235C7B}
+	EndGlobalSection
+EndGlobal

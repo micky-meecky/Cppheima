@@ -1,0 +1,2 @@
+Z:\projects\c++\IDmanagement\IDmanagement\x64\Debug\IDmanagement.exe
+Z:\projects\c++\IDmanagement\IDmanagement\x64\Debug\IDmanagement.pdb

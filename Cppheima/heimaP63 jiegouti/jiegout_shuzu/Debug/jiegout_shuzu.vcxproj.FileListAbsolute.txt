@@ -1,0 +1,2 @@
+Z:\projects\c++\heimaP63 jiegouti\jiegout_shuzu\Debug\jiegout_shuzu.exe
+Z:\projects\c++\heimaP63 jiegouti\jiegout_shuzu\Debug\jiegout_shuzu.pdb

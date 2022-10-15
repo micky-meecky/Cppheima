@@ -1,0 +1,2 @@
+Z:\projects\c++\类和对象\临时练习友元到继承前\exercise\Debug\exercise.exe
+Z:\projects\c++\类和对象\临时练习友元到继承前\exercise\Debug\exercise.pdb

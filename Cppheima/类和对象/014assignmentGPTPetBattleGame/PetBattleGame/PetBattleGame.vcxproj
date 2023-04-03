@@ -140,14 +140,18 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BaseClass.cpp" />
-    <ClCompile Include="Fireball.cpp" />
+    <ClCompile Include="sk_Fireball.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="GameInfo.cpp" />
+    <ClCompile Include="sk_Heal.cpp" />
+    <ClCompile Include="sk_WaterShield.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseClass.h" />
-    <ClInclude Include="Fireball.h" />
+    <ClInclude Include="sk_Fireball.h" />
     <ClInclude Include="GameInfo.h" />
+    <ClInclude Include="sk_Heal.h" />
+    <ClInclude Include="sk_WaterShield.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -24,18 +24,30 @@
     <ClCompile Include="BaseClass.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Fireball.cpp">
+    <ClCompile Include="sk_WaterShield.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sk_Heal.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="sk_Fireball.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="BaseClass.h">
-      <Filter>源文件</Filter>
-    </ClInclude>
     <ClInclude Include="GameInfo.h">
-      <Filter>源文件</Filter>
+      <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="Fireball.h">
+    <ClInclude Include="BaseClass.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sk_WaterShield.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sk_Heal.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="sk_Fireball.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

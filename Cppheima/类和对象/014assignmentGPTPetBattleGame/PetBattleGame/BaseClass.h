@@ -7,16 +7,19 @@ using namespace std;
 
 // 设计一个Skill类，具有以下属性和方法：
 // 	属性：名字、类型、伤害值、技能描述、类型包括：攻击、防御、辅助
+//  type： attack，defense，support
 // 	方法：构造函数、析构函数、获取和设置属性方法、打印技能属性方法
 
 class Skill	//技能类
 {
 	friend class Fireball;	//Fireball类是Skill类的友元类, 因为Fireball类中有printSkill()方法需要访问Skill类的私有属性
+	friend class WaterShield;	//WaterShield类是Skill类的友元类, 因为WaterShield类中有printSkill()方法需要访问Skill类的私有属性
+	friend class Heal;	//Heal类是Skill类的友元类, 因为Heal类中有printSkill()方法需要访问Skill类的私有属性
 
 public:
 	//构造函数的声明
 	//构造函数的参数中 name type damage description分别表示技能的名字、类型、伤害值、技能描述
-	Skill(string name, string type, int damage, string description);
+	Skill(string name, string type, int damage, string description, int priority);
 	//析构函数的声明
 	~Skill();
 
@@ -25,12 +28,14 @@ public:
 	virtual void setType(string type) = 0;
 	virtual void setDamage(int damage) = 0;
 	virtual void setDescription(string description) = 0;
+	virtual void setPriority(int priority) = 0;
 
 	//获取属性方法的声明
 	virtual string getName() = 0;
 	virtual string getType() = 0;
 	virtual int getDamage() = 0;
 	virtual string getDescription() = 0;
+	virtual int getPriority() = 0;
 	virtual void printSkill() = 0;
 private:
 	//属性的声明
@@ -38,6 +43,8 @@ private:
 	string type;
 	int damage;
 	string description;
+	int priority;
+
 };
 
 // Pet 类

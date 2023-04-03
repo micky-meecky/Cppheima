@@ -140,6 +140,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BaseClass.cpp" />
+    <ClCompile Include="pt_phoenix.cpp" />
     <ClCompile Include="sk_Fireball.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="GameInfo.cpp" />
@@ -148,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="BaseClass.h" />
+    <ClInclude Include="pt_phoenix.h" />
     <ClInclude Include="sk_Fireball.h" />
     <ClInclude Include="GameInfo.h" />
     <ClInclude Include="sk_Heal.h" />

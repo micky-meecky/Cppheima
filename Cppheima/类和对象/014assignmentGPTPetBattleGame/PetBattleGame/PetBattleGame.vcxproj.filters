@@ -33,6 +33,9 @@
     <ClCompile Include="sk_Fireball.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="pt_phoenix.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="GameInfo.h">
@@ -48,6 +51,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="sk_Fireball.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pt_phoenix.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

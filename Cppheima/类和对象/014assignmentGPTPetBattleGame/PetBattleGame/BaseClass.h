@@ -55,7 +55,11 @@ class Pet
 {
 	friend class Battle; // Battle类是Pet类的友元类, 因为Battle类中有startBattle()方法需要访问Pet类的私有属性
 	friend class phoenix;	//phoenix类是Pet类的友元类, 因为phoenix类中有printPet()方法需要访问Pet类的私有属性
- 
+	friend class pt_Leviathan;	//Leviathan类是Pet类的友元类, 因为Leviathan类中有printPet()方法需要访问Pet类的私有属性
+	friend class pt_Dragon;	//Dragon类是Pet类的友元类, 因为Dragon类中有printPet()方法需要访问Pet类的私有属性
+
+
+
 public:
 	//构造函数的声明
 	//构造函数的参数中 name type hp attack defense speed分别表示宠物的名字、种类、生命值、攻击力、防御力、速度
